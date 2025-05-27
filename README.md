@@ -40,15 +40,12 @@ To use this dashboard locally:
 - Power BI Desktop (latest version recommended)
 - Microsoft Excel (for editing the data source)
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute it.
 
 ## 🙌 Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repo and submit a pull request.
 
----
+
 
 ### 🔖 Project Description
 
